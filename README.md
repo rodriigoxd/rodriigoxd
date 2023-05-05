@@ -4,7 +4,7 @@
 ##
 
 <div align="center"><br>
-  <img alt="dev-code" height="140" width="180" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif">
+  <img alt="dev-code" height="140" width="230" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif">
 </div> <br>
 
 <p align="center">
