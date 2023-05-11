@@ -8,7 +8,7 @@
 </div> <br>
 
 <p align="center">
-    Rodrigo 🤙🏽 | Front-end Developer 👨🏾‍💻 | São Paulo, Brasil 📍 | 22y
+    Rodrigo | Front-end Developer 👨🏾‍💻 | São Paulo, Brasil 📍 | 22y
 <p/>
  
 ● Front-end Developer Jr.
